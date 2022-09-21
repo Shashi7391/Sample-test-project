@@ -16,7 +16,7 @@
 
 ## Problem Statement/General Information
 
-- Problem Statement
+- 
 
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
@@ -60,7 +60,6 @@ You are required to model the demand for shared bikes with the available indepen
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project is part of multiple linear regression assignment.
 
 ## Contact
