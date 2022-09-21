@@ -19,7 +19,7 @@
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
+## Problem Statement/General Information
 - Provide general information about your project here.
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
@@ -50,11 +50,6 @@ You are required to model the demand for shared bikes with the available indepen
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
 - R square of final model built is 0.8083, and the adjusted R square is 0.8109.
 - The final equation of the Target variable 'cnt' with respect to all the Predictor variabes is :
  (cnt = 0.2401yr - 0.0985holiday + 0.4623temp - 0.2857lightSnowRain - 0.0754MistCloudy - 0.1258Spring + 0.0587Winter + 0.1724)
@@ -65,18 +60,16 @@ You are required to model the demand for shared bikes with the available indepen
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.10
+- Pandas - version 1.5.0
+- Scikit-learn - version 0.20
+- Statsmodels - version 0.11
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project is part of multiple linear regression assignment.
 
 ## Contact
 Created by @ShashiKant7391 - feel free to contact me!
