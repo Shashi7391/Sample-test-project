@@ -58,6 +58,7 @@ You are required to model the demand for shared bikes with the available indepen
 - R square of final model built is 0.8083, and the adjusted R square is 0.8109.
 - The final equation of the Target variable 'cnt' with respect to all the Predictor variabes is :
  (cnt = 0.2401yr - 0.0985holiday + 0.4623temp - 0.2857lightSnowRain - 0.0754MistCloudy - 0.1258Spring + 0.0587Winter + 0.1724)
+ - We can say that temp (positive relation by slope of 0.4623), year(positive relation by slope of 0.2401) and LightSnowRain(weather being Light snow or rainy with negative slope of 0.2857) are the top 3 features, in order, contributing significantly towards explaining the demand of the shared bikes
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
